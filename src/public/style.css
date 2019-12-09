@@ -1,8 +1,13 @@
 body{
-    background: #45AFAA;
+    background: #41FFBA;
+
 
 }
 .title{
     color: purple;
     text-align: center;
+}
+.first_par{
+    color: salmon;
+    font-size: 18px;
 }
